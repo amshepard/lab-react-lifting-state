@@ -1,4 +1,5 @@
 {
+  "homepage": "http://amshepard.github.io/lab-react-lifting-state",
   "name": "lab-lifting-state",
   "version": "0.1.0",
   "private": true,
@@ -13,6 +14,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "cypress open",
     "eject": "react-scripts eject"
@@ -40,6 +43,7 @@
     "@testing-library/react": "^12.1.5",
     "cypress": "^9.7.0",
     "cypress-react-selector": "^3.0.0",
-    "cypress-watch-and-reload": "^1.10.3"
+    "cypress-watch-and-reload": "^1.10.3",
+    "gh-pages": "^5.0.0"
   }
 }
