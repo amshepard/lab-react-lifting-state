@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/lab-react-lifting-state/static/css/main.fba2f2db.css",
+    "main.js": "/lab-react-lifting-state/static/js/main.325fa696.js",
+    "static/media/tada.png": "/lab-react-lifting-state/static/media/tada.e69201a72204807c8f61.png",
+    "index.html": "/lab-react-lifting-state/index.html",
+    "main.fba2f2db.css.map": "/lab-react-lifting-state/static/css/main.fba2f2db.css.map",
+    "main.325fa696.js.map": "/lab-react-lifting-state/static/js/main.325fa696.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fba2f2db.css",
+    "static/js/main.325fa696.js"
+  ]
+}
